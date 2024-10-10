@@ -1,0 +1,9 @@
+# ninja log v5
+2	283	1726750935135975634	set_calculator_autogen/timestamp	7374faa0bbc0060
+2	283	1726750935135975634	set_calculator_autogen/mocs_compilation.cpp	7374faa0bbc0060
+2	283	1726750935135975634	/home/Meidori/set_calculator/build/Desktop-Debug/set_calculator_autogen/timestamp	7374faa0bbc0060
+2	283	1726750935135975634	/home/Meidori/set_calculator/build/Desktop-Debug/set_calculator_autogen/mocs_compilation.cpp	7374faa0bbc0060
+285	1768	1726750936629308866	CMakeFiles/set_calculator.dir/set_calculator_autogen/mocs_compilation.cpp.o	343cfa407c15e80
+285	1777	1726750936635975532	CMakeFiles/set_calculator.dir/main.cpp.o	568a97aaf5f00567
+285	1843	1726750936702642194	CMakeFiles/set_calculator.dir/setcalculator.cpp.o	b7103572f7818bea
+1843	2143	1726750936999308841	set_calculator	95dc8c38003a4cc0
