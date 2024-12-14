@@ -43,6 +43,9 @@ def is_linear(vector: str):
 
     c0 = int(vector[0])
 
+    if (len(vector) == vector.count("0")):
+        return True
+
     if num_variables == 2:
         cy = c0 ^ int(vector[1])
         cx = c0 ^ int(vector[2])
