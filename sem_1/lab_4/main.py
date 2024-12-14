@@ -27,9 +27,10 @@ def is_self_referential(vector):
 
 def is_monotone(vector):
     for i in range(len(vector)):
-        for j in range(i, len(vector)):
-            if vector[i] > vector[j]:
-                return False
+        for j in range(len(vector)):
+            if (i & j) == i:
+                if vector[i] > vector[j]:
+                    return False
     return True
 
 
